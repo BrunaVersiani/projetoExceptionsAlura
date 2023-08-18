@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74021339-2aa1-4be3-8eda-bc4317dd1be6" name="Changes" comment="&quot;Projeto exceptions curso alura&quot;">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TrabalhandoJavaExceptions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fluxo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FluxoComTratamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SaldoInsuficienteException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TesteSaca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conexao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TesteConexao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="bruna versiani &lt;rayaneversiani@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2Tzfw9lKoJJGWyhQPTOxgSjUkCk" />
@@ -65,6 +62,49 @@
       <option name="presentableId" value="Default" />
       <updated>1692051066278</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;Projeto exceptions curso alura&quot;">
+      <created>1692394160653</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692394160653</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;Projeto exceptions curso alura&quot;">
+      <created>1692394175917</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692394175917</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;Projeto exceptions curso alura&quot;">
+      <created>1692394205159</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692394205159</updated>
+    </task>
+    <task id="LOCAL-00004" summary="&quot;Projeto exceptions curso alura&quot;">
+      <created>1692394294702</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692394294702</updated>
+    </task>
+    <task id="LOCAL-00005" summary="&quot;Projeto exceptions curso alura&quot;">
+      <created>1692394371713</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692394371713</updated>
+    </task>
+    <task id="LOCAL-00006" summary="&quot;Projeto exceptions curso alura&quot;">
+      <created>1692394496717</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1692394496717</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
